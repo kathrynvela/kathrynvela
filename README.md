@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1>Hi, I'm Kathryn 👋</h1>
 
+<p>I am a novice web developer and experienced librarian who is passionate about connecting people with the information they need to live their best lives. I am currently working my way through <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2020 Web Development Bootcamp taught by Angela Yu</a> and tracking my process with the <a href="https://www.100daysofcode.com/">100 Days of Code challenge</a>.</p>
+
+<h2>Get in Touch</h2>
+
+Sharing my learning process on <a href="https://twitter.com/KathrynVela31">Twitter</a>
+Writing about my career experiences on kathrynvela.com
+Documenting my professional life on <a href="https://www.linkedin.com/in/kathrynvela/">LinkedIn</a>
 <!--
 **kathrynvela/kathrynvela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
