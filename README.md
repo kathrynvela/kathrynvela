@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kathryn 👋</h1>
 
-<img src="https://github.com/kathrynvela/kathrynvela/blob/master/Kathryn%20Vela.png" alt="header decoration">
+<img src="https://github.com/kathrynvela/kathrynvela/blob/master/KathrynVela_Header.png" alt="header decoration">
 
 <p>I am a data analyst and experienced librarian who is passionate about connecting people with the information they need to live their best lives. I am currently working my way through the Data Analyst Career Training Program through NCLab.</p>
 
