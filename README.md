@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kathryn 👋</h1>
 
-<img src="https://github.com/kathrynvela/kathrynvela/blob/master/Kathryn%20Vela.png?raw=true" alt="header decoration">
+<img src="https://github.com/kathrynvela/kathrynvela/blob/master/Kathryn%20Vela.png" alt="header decoration">
 
 <p>I am a novice web developer and experienced librarian who is passionate about connecting people with the information they need to live their best lives. I am currently working my way through <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2020 Web Development Bootcamp taught by Angela Yu</a> and tracking my process with the <a href="https://www.100daysofcode.com/">100 Days of Code challenge</a>.</p>
 
