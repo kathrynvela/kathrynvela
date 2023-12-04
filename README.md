@@ -2,7 +2,7 @@
 
 <img src="https://github.com/kathrynvela/kathrynvela/blob/master/Kathryn%20Vela.png" alt="header decoration">
 
-<p>I am a data analyst and experienced librarian who is passionate about connecting people with the information they need to live their best lives. I am currently working my way through the Data Analyst Career Training Program through NCLab</p>
+<p>I am a data analyst and experienced librarian who is passionate about connecting people with the information they need to live their best lives. I am currently working my way through the Data Analyst Career Training Program through NCLab.</p>
 
 <h2>Get in Touch</h2>
 
