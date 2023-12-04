@@ -2,12 +2,12 @@
 
 <img src="https://github.com/kathrynvela/kathrynvela/blob/master/Kathryn%20Vela.png" alt="header decoration">
 
-<p>I am a novice web developer and experienced librarian who is passionate about connecting people with the information they need to live their best lives. I am currently working my way through <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2020 Web Development Bootcamp taught by Angela Yu</a> and tracking my process with the <a href="https://www.100daysofcode.com/">100 Days of Code challenge</a>.</p>
+<p>I am a data analyst and experienced librarian who is passionate about connecting people with the information they need to live their best lives. I am currently working my way through the Data Analyst Career Training Program through NCLab</p>
 
 <h2>Get in Touch</h2>
 
 <p>🌱 Sharing my learning process on <a href="https://twitter.com/KathrynVela31">Twitter</a></p>
-<p>⚡ Writing about my career experiences on kathrynvela.com</p>
+<p>⚡ Writing about my career experiences on <a href="https://www.kathrynvela.com">kathrynvela.com</a></p>
 <p>💼 Documenting my professional life on <a href="https://www.linkedin.com/in/kathrynvela/">LinkedIn</a></p>
 <!--
 **kathrynvela/kathrynvela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
